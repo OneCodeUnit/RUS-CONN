@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Русский язык для Cybernetic Organism and Neural Network</name>
+  <author>OliveWizzard</author>
+  <supportedVersions>
+		<li>1.2</li>
+		<li>1.1</li>
+	</supportedVersions>
+  <modDependencies>
+		<li>
+			<packageId>kikohi.cybernetic</packageId>
+			<displayName>Cybernetic Organism and Neural Network</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2045064990</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<packageId>RU.cybernetic</packageId>
+	<description>Обновлённый перевод на русский язык мода Cybernetic Organism and Neural Network.</description>
+	<loadAfter>
+		<li>kikohi.cybernetic</li>
+	</loadAfter>
+</ModMetaData>
