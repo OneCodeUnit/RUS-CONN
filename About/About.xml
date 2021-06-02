@@ -14,7 +14,7 @@
 		</li>
 	</modDependencies>
 	<packageId>RU.cybernetic</packageId>
-	<description>Обновлённый перевод на русский язык мода Cybernetic Organism and Neural Network.</description>
+	<description>Версия для тестирования перевода Cybernetic Organism and Neural Network перед включением в мод.</description>
 	<loadAfter>
 		<li>kikohi.cybernetic</li>
 	</loadAfter>
